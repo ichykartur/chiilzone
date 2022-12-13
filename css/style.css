@@ -184,7 +184,7 @@ a {
 
 .item_text {
 	line-height: 35px;
-	font-size: 30px;
+	font-size: 20px;
 	margin: 25px 0;
 	text-align: center;
 
@@ -193,7 +193,7 @@ a {
 
 .item_text div {
 	line-height: 55px;
-	font-size: 25px;
+	font-size: 20px;
 	margin: 10px 0px 0px 0px;
 	text-align: center;
 	border-top: 2px solid black;
